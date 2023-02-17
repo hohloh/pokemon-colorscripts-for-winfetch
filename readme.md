@@ -3,6 +3,10 @@
 Heavily inspired by PhoneyBadger's pokemon-colorscripts. Check out their repo as well.
 https://gitlab.com/phoneybadger/pokemon-colorscripts
 
+All the pokemon designs, names, branding etc. are trademarks of The Pokémon Company
+
+The box art sprites were taken from the PokéSprite database.
+
 This winfetch config will print pokemon sprites from the two attached folders to Windows Powershell/Terminal.
 
 --------------------
