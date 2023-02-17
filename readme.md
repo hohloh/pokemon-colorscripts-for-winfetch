@@ -1,4 +1,4 @@
-## **POKEMON SPRITES FOR WINFETCH V1.0**
+### **pokemon sprites winfetch config**
 
 This winfetch config will print pokemon sprites from the two attached folders to Windows Powershell/Terminal.
 
