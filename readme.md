@@ -30,5 +30,3 @@ If you want to keep your current config other than the sprite loader, you can pa
 This config assumes you're on Windows 11, if you aren't, paste the part of the config to your operating system (from ln. 429).
 
 *There's a chance winfetch will print a shiny, which is set to 1/128 by default.*
-
-Have fun!
