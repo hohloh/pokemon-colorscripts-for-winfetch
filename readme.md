@@ -17,7 +17,7 @@ Heavily inspired by PhoneyBadger's pokemon-colorscripts. Check out their repo as
 
 or using a package manager like Scoop: 
 
-> `scoop install winfetch`
+```scoop install winfetch```
 
 --------------------
 
@@ -25,7 +25,7 @@ or using a package manager like Scoop:
 
 1. Paste the contents to your winfetch config directory, by default:
 
-> `C:\Users\YourUsername\.config\winfetch`
+```C:\Users\YourUsername\.config\winfetch```
 
 If you want to keep your current config other than the sprite loader, you can paste the part of the config that sets the $CustomAscii (ln. 21).
 
