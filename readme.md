@@ -23,11 +23,10 @@ or using a package manager like Scoop:
 
 #### Installation
 
-1. Paste the contents to your winfetch directory, e.g. when using scoop to:
+1. Paste the contents to your winfetch config directory, by default:
 
-> `C:\Users\YourUsername\scoop\apps\winfetch\current`
+> `C:\Users\YourUsername\.config\winfetch`
 
-If you want to keep your current config other than the sprite loader, you can paste the part of the config that defines the logo (ln. 445-464).
-This config assumes you're on Windows 11, if you aren't, paste the part of the config to your operating system (from ln. 429).
+If you want to keep your current config other than the sprite loader, you can paste the part of the config that sets the $CustomAscii (ln. 21).
 
 *There's a chance winfetch will print a shiny, which is set to 1/128 by default.*
